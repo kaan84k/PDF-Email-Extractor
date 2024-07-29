@@ -50,7 +50,7 @@ The application will be accessible at [http://127.0.0.1:5000/](http://127.0.0.1:
 - **View Extracted Emails**: The application will display extracted emails after processing.
 - **Manage Emails**: Select emails to remove from the Google Sheet if necessary.
 
-### **8. Contributing**
+### **5. Contributing**
 
 Feel free to fork the project, make improvements, and submit pull requests. For major changes, please open an issue first to discuss what you would like to change.
 
