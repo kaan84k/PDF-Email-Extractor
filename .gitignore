@@ -1,0 +1,21 @@
+# Python
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Credentials
+credentials.json
+token.pickle
+
+# VS Code
+.vscode/
+
+# MacOS
+.DS_Store
